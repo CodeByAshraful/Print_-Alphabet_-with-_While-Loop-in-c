@@ -1,1 +1,1 @@
-# Print_-Alphabet_-with-_While-Loop-in-c
+Some_basic_codein_C
